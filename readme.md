@@ -7,11 +7,13 @@ Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a y
 
 
 ------------- Tutorial Followed --------------
-GitHub Code (give it a star ⭐) - https://github.com/adrianhajdin/proje...
-Styles & Code - https://gist.github.com/adrianhajdin/...
-Images - https://minhaskamal.github.io/DownGit...
-Tailwind Setup - https://tailwindcss.com/docs/guides/c...
-Tailwind Docs - https://tailwindcss.com/docs
-Ropsten Faucet has been deprecated. You can use Goerli.
-Etherscan - https://ropsten.etherscan.io
-Alchemy - https://alchemy.com
+<ul>
+ <li>GitHub Code (give it a star ⭐) - https://github.com/adrianhajdin/proje...</li>
+ <li>Styles & Code - https://gist.github.com/adrianhajdin/...</li>
+ <li>Images - https://minhaskamal.github.io/DownGit...</li>
+ <li>Tailwind Setup - https://tailwindcss.com/docs/guides/c...</li>
+ <li>Tailwind Docs - https://tailwindcss.com/docs</li>
+ <li>Ropsten Faucet has been deprecated. You can use Goerli.</li>
+ <li>Etherscan - https://ropsten.etherscan.io</li>
+ <li>Alchemy - https://alchemy.com</li>
+</ul>
